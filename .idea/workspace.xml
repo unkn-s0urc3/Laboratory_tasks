@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7afcb797-7579-456c-8434-d5271853e4ae" name="Changes" comment="Added &quot;count_homonyms.py&quot;">
-      <change afterPath="$PROJECT_DIR$/filter_for_social_media_networks/file_1_rtf.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filter_for_social_media_networks/file_1_txt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filter_for_social_media_networks/file_2_rtf.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filter_for_social_media_networks/file_2_txt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filter_for_social_media_networks/filter_for_social_media_networks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+    <list default="true" id="7afcb797-7579-456c-8434-d5271853e4ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/speaker/speaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Laboratory_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Laboratory_tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +37,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.filter_for_social_media_networks.executor": "Run",
+    "Python.voice_changer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Projects/DEVELOPMENT/Laboratory_tasks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,7 +72,10 @@
       <option name="presentableId" value="Default" />
       <updated>1726462034736</updated>
       <workItem from="1726462035511" duration="507000" />
-      <workItem from="1727071177804" duration="2780000" />
+      <workItem from="1727071177804" duration="3173000" />
+      <workItem from="1727658359644" duration="257000" />
+      <workItem from="1727658647601" duration="3000" />
+      <workItem from="1727659510452" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing the project">
       <option name="closed" value="true" />
@@ -116,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726462507789</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added &quot;filter_for_social_media_networks.py&quot;">
+      <option name="closed" value="true" />
+      <created>1727074004916</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727074004916</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,9 +148,11 @@
     <MESSAGE value="Added &quot;password_check.py&quot;" />
     <MESSAGE value="Update &quot;antispam.py&quot;" />
     <MESSAGE value="Added &quot;count_homonyms.py&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;count_homonyms.py&quot;" />
+    <MESSAGE value="Added &quot;filter_for_social_media_networks.py&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;filter_for_social_media_networks.py&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Laboratory_tasks$filter_for_social_media_networks.coverage" NAME="filter_for_social_media_networks Coverage Results" MODIFIED="1727073928956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filter_for_social_media_networks" />
+    <SUITE FILE_PATH="coverage/Laboratory_tasks$voice_changer.coverage" NAME="voice_changer Coverage Results" MODIFIED="1727660149087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/voice_changer" />
+    <SUITE FILE_PATH="coverage/Laboratory_tasks$filter_for_social_media_networks.coverage" NAME="filter_for_social_media_networks Coverage Results" MODIFIED="1727658498515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filter_for_social_media_networks" />
   </component>
 </project>
